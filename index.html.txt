@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Project</title>
+<style>
+#container {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #fe9;
+  font-family: "Palatino",serif;
+}
+</style>
+</head>
+<body>
+<div id="container">
+<br>Hariharan C</br>
+<br>20-UCO-266</br>
+<br>Section A</br>
+</br>B.Com Commerce - Shift 2.</br>
+</div>
+</body>
+</html>
